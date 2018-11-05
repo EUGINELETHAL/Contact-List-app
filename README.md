@@ -37,7 +37,7 @@ Clone  from my github(https://github.com/EUGINELETHAL/Contact-List-app)
 
 ### Meta
 -Feel free to add features (just fork it)
-Incase of any queries, email me at -(djseanizellkenya@gmail.com)
+Incase of any queries, email me at -(ochungeugine@gmail.com)
 <br>
 Github - [EUGINELETHAL](https://github.com/EUGINELETHAL)
 
